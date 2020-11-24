@@ -11,4 +11,4 @@ Project | Description | Stack
 [Proj_10. Прогнозирование стоимости автомобилей и оценка скорости работы моделей](https://github.com/Ant1core/Praktikum/tree/master/10_Cars_price_GBM) | Определение оптимальной модели для предсказания стоимости авто по данным из объявлений. Оценка моделей по критериям качества предсказания, а также производительности(скоростей обучения и предсказания) | pandas, numpy, sklearn, XGBoost, LightGBM, CatBoost, matplotlib, %timeit
 [Proj_11. Прогнозирование загруженности таксопарка по времени](https://github.com/Ant1core/Praktikum/tree/master/11_Airport_Taxi_timelines) | Построение моделей для планирования загрузки таксопарка по времени | pandas, numpy, statsmodels, sklearn, XGBoost, LightGBM, CatBoost, seaborn
 
-Остальные работы собраны в */OTHERS*.
+Остальные работы собраны в [*OTHERS*](https://github.com/Ant1core/Praktikum/tree/master/OTHERS).
