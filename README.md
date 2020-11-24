@@ -1,8 +1,10 @@
-# Примеры выполненных проектов
+# Примеры выполненных DS проектов
 
-Здесь собраны реализованные мной проекты в ходе обучения на Я.Практикум. <br/>
+Здесь собраны реализованные мной проекты в ходе обучения в Яндексе. <br/>
 Наиболее интересные приведены ниже, дано их краткое описание, решаемые задачи и стек используемых в работе инструментов.
 Ссылки ведут к более детальному описанию проектов и *ipynb с проектом.
+
+Все мои проекты(с ноутбуками) в [*OTHERS*](https://github.com/Ant1core/Praktikum/tree/master/OTHERS).
 
 Project | Description | Stack
 --- | --- | ---
@@ -11,4 +13,3 @@ Project | Description | Stack
 [Proj_10. Прогнозирование стоимости автомобилей и оценка скорости работы моделей](https://github.com/Ant1core/Praktikum/tree/master/10_Cars_price_GBM) | Определение оптимальной модели для предсказания стоимости авто по данным из объявлений. Оценка моделей по критериям качества предсказания, а также производительности(скоростей обучения и предсказания) | pandas, numpy, sklearn, XGBoost, LightGBM, CatBoost, matplotlib, %timeit
 [Proj_11. Прогнозирование загруженности таксопарка](https://github.com/Ant1core/Praktikum/tree/master/11_Airport_Taxi_timelines) | Построение моделей для планирования загрузки таксопарка по времени | pandas, numpy, statsmodels, sklearn, XGBoost, LightGBM, CatBoost, seaborn
 
-Остальные работы собраны в [*OTHERS*](https://github.com/Ant1core/Praktikum/tree/master/OTHERS).
