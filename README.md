@@ -4,7 +4,7 @@
 Наиболее интересные приведены ниже, дано их краткое описание, решаемые задачи и стек используемых в работе инструментов.
 Ссылки ведут к более детальному описанию проектов и *ipynb с проектом.
 
-Все мои проекты(с ноутбуками) в [*OTHERS*](https://github.com/Ant1core/Praktikum/tree/master/OTHERS).
+Все проекты(с ноутбуками и описанием) здесь: [*ALL_PROJECTS*](https://github.com/Ant1core/Praktikum/tree/master/ALL_PROJECTS).
 
 Project | Description | Stack
 --- | --- | ---
