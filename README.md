@@ -6,9 +6,9 @@
 
 Project | Description | Stack
 --- | --- | ---
-Proj_4. Анализ рынка видеоигр | Предобработка данных, исследовательский и статистический анализ рынка видеоигр. Проверка гипотез, t-test. | pandas, numpy, scipy, mathplotlib, pyplot, seaborn
-Proj_8. Прогнозирование долей обогащения золота в тех. процессе | Исследование технологического процесса обогащения золота и построение моделей регрессии для различных этапов технологического процесса | pandas, numpy, sklearn, seaborn
-Proj_10. Прогнозирование стоимости автомобилей и оценка скорости работы моделей | Определение оптимальной модели для предсказания стоимости авто по данным из объявлений по критериям качества предсказания, а также производительности(скоростей обучения и предсказания) | Стек: pandas, numpy, sklearn, XGBoost, LightGBM, CatBoost, matplotlib, %timeit
-Proj_11. Прогнозирование загруженности таксопарка по времени | Построение моделей для планирования загрузки таксопарка по времени | Стек: pandas, numpy, statsmodels, sklearn, XGBoost, LightGBM, CatBoost, seaborn
+[Proj_4. Анализ рынка видеоигр](https://github.com/Ant1core/Praktikum/tree/master/4_Videogames_market_statistic) | Предобработка данных, исследовательский и статистический анализ рынка видеоигр. Проверка гипотез, t-test. | pandas, numpy, scipy, mathplotlib, pyplot, seaborn
+[Proj_8. Прогнозирование долей обогащения золота в тех. процессе](https://github.com/Ant1core/Praktikum/tree/master/8_Gold_recovery_Regressions) | Исследование технологического процесса обогащения золота и построение моделей регрессии для различных этапов технологического процесса | pandas, numpy, sklearn, seaborn
+[Proj_10. Прогнозирование стоимости автомобилей и оценка скорости работы моделей](https://github.com/Ant1core/Praktikum/tree/master/10_Cars_price_GBM) | Определение оптимальной модели для предсказания стоимости авто по данным из объявлений по критериям качества предсказания, а также производительности(скоростей обучения и предсказания) | Стек: pandas, numpy, sklearn, XGBoost, LightGBM, CatBoost, matplotlib, %timeit
+[Proj_11. Прогнозирование загруженности таксопарка по времени](https://github.com/Ant1core/Praktikum/tree/master/11_Airport_Taxi_timelines) | Построение моделей для планирования загрузки таксопарка по времени | Стек: pandas, numpy, statsmodels, sklearn, XGBoost, LightGBM, CatBoost, seaborn
 
 Остальные работы собраны в */OTHERS*.
