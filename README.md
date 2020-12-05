@@ -6,7 +6,7 @@
 
 Все проекты(с ноутбуками и описанием) здесь: [*ALL_PROJECTS*](https://github.com/Ant1core/Praktikum/tree/master/ALL_PROJECTS).
 
-Project | Description | Results | Stack
+Проект | О чём проект | Чем интересен | Stack
 --- | --- | --- | ---
 [Proj_4. Анализ рынка видеоигр](https://github.com/Ant1core/Praktikum/tree/master/4_Videogames_market_statistic) | Предобработка данных, исследовательский и статистический анализ рынка видеоигр. Проверка гипотез, t-test. | Наглядный графический анализ рынка и его тенденций. Проверенные гипотезы о том, что не стоит всегда ориентироваться на рецензии критиков:) | pandas, numpy, scipy, mathplotlib, pyplot, seaborn
 [Proj_8. Прогнозирование долей обогащения золота в тех. процессе](https://github.com/Ant1core/Praktikum/tree/master/8_Gold_recovery_Regressions) | Исследование технологического процесса обогащения золота и построение моделей регрессии для различных этапов технологического процесса | Детально разобрал технологический процесс обогащения и проверил валидность данных (данные были "сырые"). Метрики (sMAPE) получились отличные! | pandas, numpy, sklearn, seaborn
